@@ -1,6 +1,6 @@
 # My Course Portfolio
 
-Welcome to my academic portfolio for !
+Welcome to my academic portfolio for CEP146!
 
 ## About Me
 - Name: Maks
